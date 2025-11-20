@@ -3,7 +3,7 @@
 ## Desafios de Projeto
 
 ### Otimizando Sistema Bancário Com Funções Python
-Além do sistema proposto, esse sistema é composto por 2 partes: admin e usuário. Onde o admin tem acesso a todas as funções, enquanto o usuário é restrito. como descriminado abaixo.
+Além do sistema proposto, esse sistema é composto por 2 partes: admin e usuário. Onde o admin tem acesso a todas as funções, enquanto o usuário é restrito.
 <br/>
 Admin:
 * Criar Usuário
