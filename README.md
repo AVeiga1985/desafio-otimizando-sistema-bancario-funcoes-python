@@ -1,6 +1,8 @@
-# Desafio Trilha Python DIO
+# Desafios Trilha Python DIO
 
-## Otimizando Sistema Bancário Com Funções Python
+## Desafios de Projeto
+
+### Otimizando Sistema Bancário Com Funções Python
 Além do sistema proposto, esse sistema é composto por 2 partes: admin e usuário. Onde p admin tem acesso a todas as funções, enquanto o usuário é restrito. como descriminado abaixo.
 <br/>
 Admin:
